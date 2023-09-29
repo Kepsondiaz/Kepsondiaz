@@ -10,11 +10,12 @@
 
 # Hi, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+- I'm from Senegal West Africa 🇸🇳
 - Freelancer.
 - Happy with the cliff edge jokes.
 - Love the variety of coffee no matter instant coffee or manual brew.
 
-You can see the results of my public work on this profile page or on [@OctopyID](https://github.com/Kepsondiaz).
+You can see the results of my public work on this profile page or on [Kepsondiaz](https://github.com/Kepsondiaz).
 
 ---
 
