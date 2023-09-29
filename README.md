@@ -13,7 +13,11 @@
 - I'm from Senegal West Africa 🇸🇳
 - Freelancer.
 - Happy with the cliff edge jokes.
-- Love the variety of coffee no matter instant coffee or manual brew.
+- Love the variety of coffee no matter instant coffee or manual brew. 
+
+  ##  🛠 Technologies & Tools
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 You can see the results of my public work on this profile page or on [Kepsondiaz](https://github.com/Kepsondiaz).
 
