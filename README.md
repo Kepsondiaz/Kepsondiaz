@@ -18,6 +18,6 @@
 
  #  🛠 Technologies & Tools
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,laravel,go,python,nodejs,express,docker,postgres,mysql,linux,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,laravel,go,python,nodejs,express,docker,postgres,mysql,linux,mongodb,swift)](https://skillicons.dev)
 
 
