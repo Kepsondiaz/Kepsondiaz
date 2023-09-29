@@ -10,13 +10,14 @@
 
 # Hi, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-  - I'm from Senegal West Africa 🇸🇳
+  - I'm from Senegal West Africa 🇸🇳.
   - Freelancer.
+  - Backend Lover
   - Happy with the cliff edge jokes.
   - Love the variety of coffee no matter instant coffee or manual brew. 
 
  #  🛠 Technologies & Tools
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,laravel,go,python,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,laravel,go,python,nodejs,express,docker,postgres,mysql,linux,mongodb)](https://skillicons.dev)
 
 
