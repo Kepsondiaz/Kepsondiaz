@@ -18,6 +18,6 @@
 
  #  🛠 Technologies & Tools
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,laravel,filament,livewire,alpine,go,python,docker,postgres,mysql,mongodb,linux,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,filament,livewire,alpine,laravel,go,python,docker,postgres,mysql,mongodb,linux,)](https://skillicons.dev)
 
 
