@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Kepsondiaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="left">
+  <a href="https://api.daily.dev/get?r=SupianIDz" target="_blank">
+    <img
+      width="355"
+      align="right"
+      src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+    />
+  </a>
+</div>
 
-<!---
-Kepsondiaz/Kepsondiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+- Freelancer.
+- Happy with the cliff edge jokes.
+- Love the variety of coffee no matter instant coffee or manual brew.
+
+You can see the results of my public work on this profile page or on [@OctopyID](https://github.com/Kepsondiaz).
+
+---
+
+![Metrics](https://raw.githubusercontent.com/Kepsondiaz/Kepsondiaz/metrics/metrics.svg)
+---
+![Contributions](https://raw.githubusercontent.com/Kepsondiaz/Kepsondiaz/metrics/notable.svg)
+---
+![Achievements](https://raw.githubusercontent.com/Kepsondiaz/Kepsondiaz/metrics/achievements.svg)
+
