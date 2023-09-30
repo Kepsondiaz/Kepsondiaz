@@ -13,7 +13,7 @@
   - I'm from Senegal West Africa 🇸🇳.
   - Freelancer.
   - Backend Lover
-  - Happy with the cliff edge jokes.
+  - Laravel lover
   - Love the variety of coffee no matter instant coffee or manual brew. 
 
  #  🛠 Technologies & Tools
