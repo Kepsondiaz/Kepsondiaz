@@ -12,8 +12,8 @@
 
   - I'm from Senegal West Africa 🇸🇳.
   - Freelancer.
-  - Backend Lover
-  - Laravel lover
+  - Laravel and VueJs.
+  - Tall stack.
   - Love the variety of coffee no matter instant coffee or manual brew. 
 
  #  🛠 Technologies & Tools
