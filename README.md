@@ -16,6 +16,7 @@
     
  #  🛠 Technologies & Tools
  - [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind)](https://skillicons.dev)
+   <br>
  - [![My Skills](https://skillicons.dev/icons?i=laravel,go,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
 
 
