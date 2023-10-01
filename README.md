@@ -14,8 +14,7 @@
   - Freelancer.
   - Laravel and VueJs.
   - Tall stack.
-  - Love the variety of coffee no matter instant coffee or manual brew. 
-
+    
  #  🛠 Technologies & Tools
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,filament,livewire,alpine,laravel,go,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
