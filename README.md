@@ -12,9 +12,8 @@
 <br>
 
   - I'm from Senegal West Africa 🇸🇳.
+  - Alhamdulilah  Even the illusion of progress is motivating.
   - Freelancer.
-  - Laravel and VueJs.
-  - Tall stack.
     
  #  🛠 Technologies & Tools
 
