@@ -9,11 +9,11 @@
 </div>
 
 # Hi, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
+<br>
   - I'm from Senegal West Africa 🇸🇳.
   - Alhamdulilah  Even the illusion of progress is motivating.
   - Freelancer.
-    <br>
+    
  #  🛠 Technologies & Tools
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,filament,livewire,alpine,laravel,go,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
