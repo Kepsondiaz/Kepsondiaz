@@ -9,7 +9,7 @@
 </div>
 
 # Hi, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<br>
+
   - I'm from Senegal West Africa 🇸🇳.
   - Laravel lover.
   - Freelancer.
