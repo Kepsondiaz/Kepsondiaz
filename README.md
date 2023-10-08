@@ -8,14 +8,14 @@
   </a>
 </div>
 
-# Hi, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hello, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
   - I'm from Senegal West Africa 🇸🇳.
   - Laravel lover.
   - Freelancer.
     
  #  🛠 Technologies & Tools
- - [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind)](https://skillicons.dev)
+ - [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,alpine)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=laravel,go,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
 
