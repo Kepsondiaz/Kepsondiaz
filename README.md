@@ -15,7 +15,7 @@
   - Freelancer.
     
  #  🛠 Technologies & Tools
- - [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,alpine)](https://skillicons.dev)
+ - [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,tailwind,alpinejs)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=laravel,go,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
 
