@@ -10,13 +10,13 @@
 
 # Hello, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-  - I'm from Senegal West Africa 🇸🇳🇸🇳🇸🇳.
+  - Software Engineer.
   - Rasta for Code 💯
   - Laravel lover.
   - Freelancer.
     
  #  🛠 Technologies & Tools
- - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,alpinejs,vuejs)](https://skillicons.dev)
+ - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,alpinejs,vuejs,reactjs)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=laravel,go,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
 
