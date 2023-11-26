@@ -12,7 +12,7 @@
 
   - Software Engineer.
   - Rasta for Code 💯
-  - Laravel lover.
+  - Laravel and React.
   - Freelancer.
     
  #  🛠 Technologies & Tools
