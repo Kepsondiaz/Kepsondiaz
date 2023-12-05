@@ -11,8 +11,8 @@
 # Hello, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
   - Software Engineer.
-  - Laravel Typescript and React.
-  - Freelancer.
+  - Laravel, Typescript and React.
+  - TALL (Tailwind, Alpine, Laravel, Livewire) Freelancer.
     
  #  🛠 Technologies & Tools
  - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,alpinejs,vuejs,react)](https://skillicons.dev)
