@@ -15,7 +15,7 @@
   - TALL (Tailwind, Alpine, Laravel, Livewire) Freelancer.
     
  #  🛠 Technologies & Tools
- - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,vuejs,react)](https://skillicons.dev)
+ - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,react)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=laravel,go,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
 
