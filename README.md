@@ -14,7 +14,7 @@
   - Laravel, Typescript and React.
   - Freelancer.
     
- #  🛠 Technologies & Tools
+ #  🛠 Technologies & Tools :
  - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,react,vscode)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=laravel,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
