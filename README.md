@@ -12,7 +12,7 @@
 
   - Software Engineer.
   - Laravel, Typescript and React.
-  - Laravel Freelancer
+  - Freelancer
     
  #  🛠 Technologies & Tools :
  - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,react,vscode)](https://skillicons.dev)
