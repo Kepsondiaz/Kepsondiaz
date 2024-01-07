@@ -11,7 +11,7 @@
 # Hello, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
   - Software Engineer.
-  - Laravel, Typescript and React.
+  - Python, PHP Laravel, Typescript and React.
   - Artisan Builder.
     
  #  🛠 Technologies & Tools :
