@@ -12,7 +12,6 @@
 
   - Software Engineer.
   - Python, PHP Laravel, Typescript and React.
-  - Artisan Builder.
     
  #  🛠 Technologies & Tools :
  - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,react,vscode)](https://skillicons.dev)
