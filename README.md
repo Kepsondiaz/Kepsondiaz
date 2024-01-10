@@ -18,8 +18,4 @@
    
  - [![My Skills](https://skillicons.dev/icons?i=laravel,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
 
-  # Github Stats
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kepsondiaz&show_icons=true&theme=radical)
-
 
