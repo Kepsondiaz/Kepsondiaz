@@ -19,3 +19,8 @@
  - [![My Skills](https://skillicons.dev/icons?i=laravel,python,docker,postgres,mysql,linux,)](https://skillicons.dev)
 
 
+# Blog
+- [![My Skills]](https://dev.to/kepsondiaz)
+
+
+
