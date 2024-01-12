@@ -20,7 +20,7 @@
 
 
 # Blog
-- [![My Skills]](https://dev.to/kepsondiaz)
+- [[Dev.to]](https://dev.to/kepsondiaz)
 
 
 
