@@ -10,7 +10,7 @@
 
 # Hello, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-  - Software Engineer.
+  - FullStack Software Engineer.
   - PYTHON, PHP Laravel, TYPESCRIPT React.
     
  #  🛠 Technologies & Tools :
