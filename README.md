@@ -16,7 +16,7 @@
  #  🛠 Technologies & Tools :
  - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,react,vscode)](https://skillicons.dev)
    
- - [![My Skills](https://skillicons.dev/icons?i=laravel,python,docker,mysql,aws)](https://skillicons.dev)
+ - [![My Skills](https://skillicons.dev/icons?i=php,python,docker,aws)](https://skillicons.dev)
 
 # Blog
 - [[Dev.to]](https://dev.to/kepsondiaz)
