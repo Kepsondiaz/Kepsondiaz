@@ -12,7 +12,7 @@
 
   - Software Engineer.
   - Learning Cloud Engineering
-  - PYTHON, PHP Laravel, TYPESCRIPT React.
+  - PHP (Laravel), TYPESCRIPT (React).
     
  #  🛠 Technologies & Tools :
  - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,react,vscode)](https://skillicons.dev)
