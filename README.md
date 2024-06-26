@@ -14,7 +14,7 @@
   - PHP (Laravel), TYPESCRIPT (React).
     
  #  🛠 Technologies & Tools :
- - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,react,vscode)](https://skillicons.dev)
+ - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,vue,vscode)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=php,python,postgres,docker,aws)](https://skillicons.dev)
 
