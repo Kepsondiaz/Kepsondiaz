@@ -13,7 +13,7 @@
   - Software Engineer.
   - PHP (Laravel), TYPESCRIPT (React).
     
- #  🛠 Technologies & Tools :
+ #  🛠 Technologies :
  - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,vue,vscode)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=php,python,postgres,docker,aws)](https://skillicons.dev)
