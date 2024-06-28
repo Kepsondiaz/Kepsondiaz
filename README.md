@@ -8,8 +8,7 @@
   </a>
 </div>
 
-# Hello, i'm Kepson Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
+# Hello, i'm Kepson Diaz 
   - Software Engineer.
   - PHP (Laravel), TYPESCRIPT (React).
     
