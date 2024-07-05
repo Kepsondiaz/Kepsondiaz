@@ -10,7 +10,7 @@
 
 # Hello, i'm Kepson Diaz 
   - Software Engineer.
-  - PHP (Laravel), TYPESCRIPT (React).
+  - PHP (Laravel), TYPESCRIPT.
     
  #  🛠 Technologies :
  - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,vue,vscode)](https://skillicons.dev)
