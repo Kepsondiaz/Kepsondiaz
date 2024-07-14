@@ -13,7 +13,7 @@
   - PHP (Laravel), TYPESCRIPT.
     
  #  🛠 Technologies :
- - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,vue,filament)](https://skillicons.dev)
+ - [![My Skills](https://skillicons.dev/icons?i=js,typescript,tailwind,vue,livewire)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=php,postgres,docker,aws)](https://skillicons.dev)
 
