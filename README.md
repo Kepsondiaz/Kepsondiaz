@@ -13,7 +13,7 @@
   - PHP (Laravel), TYPESCRIPT.
     
  #  🛠 Technologies :
- - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,livewire,typescript)](https://skillicons.dev)
+ - [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,livewire,typescript,js)](https://skillicons.dev)
    
  - [![My Skills](https://skillicons.dev/icons?i=php,postgres,docker,aws)](https://skillicons.dev)
 
