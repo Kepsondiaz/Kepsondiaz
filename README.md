@@ -18,4 +18,7 @@
  - [![My Skills](https://skillicons.dev/icons?i=php,postgres,docker,aws)](https://skillicons.dev)
 
 
+<a href="https://app.daily.dev/mahamadoukherabadiaby"><img src="https://api.daily.dev/devcards/v2/TrYxNhQrSU6h27FGlnpGp.png?type=wide&r=w57" width="652" alt="Mahamadou Kheraba diaby's Dev Card"/></a>
+
+
 
