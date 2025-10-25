@@ -243,6 +243,18 @@ it('renders invalid phone number', function () {
 2. Enable GitHub integration
 3. Set up auto-updates
 
+### v1 version 
+
+"version": "1.0.0"
+
+Add the  tag on github  with :  
+
+```bash
+git tag -a v1.0.0 -m 'V1 tag' 
+
+git push origin v1.0.0
+```
+
 ## 📚 Additional Resources
 
 - [Laravel Package Development Guide](https://laravel.com/docs/packages)
