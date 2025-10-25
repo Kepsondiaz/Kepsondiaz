@@ -1,4 +1,4 @@
-# 🚀 Simple Notes Package - Hacktoberfest Demo
+# 🚀 Phone Normalizer - Hacktoberfest Demo
 ## GalSenDev Community Presentation
 
 > **Duration:** ~45 minutes | **Audience:** PHP/Laravel developers | **Goal:** Build a complete Laravel package from scratch
