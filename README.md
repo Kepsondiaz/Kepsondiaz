@@ -8,7 +8,7 @@
   </a>
 </div>
 
-# Hello, i'm Kepson.
+# Hello, i'm Kepson Diaz.
   - Software Engineer.
   - PHP (Laravel), TYPESCRIPT.
     
